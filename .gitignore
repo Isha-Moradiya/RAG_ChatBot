@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Environment variables
+.env*
+!.env.example
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Temp
+/tmp/
+
+# API Collections
+Gemini_Chatbot_API_Collection.json
